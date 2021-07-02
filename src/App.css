@@ -1,0 +1,9 @@
+.app {
+    display: flex;
+    justify-content: center;
+    background-color: #111;
+}
+
+.app::-webkit-scrollbar {
+    display: none;
+}
